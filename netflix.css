@@ -1,0 +1,417 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.front {
+
+    background-image: url(uu.png);
+    height: 95vh;
+    width: 100%;
+
+
+
+}
+
+.front1 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.imge1>img {
+    height: 10px;
+    width: 50px;
+
+}
+
+.imge1 {
+    padding: 0px;
+    margin: 11px;
+}
+
+.opt {
+    padding: 0px;
+    margin: 11px;
+
+}
+
+.selete {
+    height: 35px;
+    width: 150px;
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    border-radius: 6px;
+
+}
+
+.bb1 {
+    height: 35px;
+    width: 100px;
+    border: 1px solid red;
+    border-radius: 6px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+
+
+}
+
+.all {
+    margin: 80px;
+    padding: 130px;
+    color: white;
+    text-align: center;
+    gap: 10px;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 65px;
+    margin: 0px;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    margin: 0px;
+    padding: 7px;
+}
+
+h4 {
+    font-size: 30px;
+    margin: 0px;
+    padding: 10px;
+}
+
+.serch {
+    height: 50px;
+    width: 500px;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+
+}
+
+.bb2 {
+    height: 50px;
+    width: 200px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+::placeholder {
+    color: white;
+    font-size: 20px ;
+}
+
+.line {
+    height: 10px;
+    width: 100vw;
+
+    background-color: gray;
+}
+
+.viii {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    color: white;
+
+
+}
+
+.text {
+
+    align-content: center;
+
+}
+
+.text span {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: left;
+    padding: 0px 180px;
+
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    padding: 0px 180px;
+
+
+
+}
+
+.im img {
+    width: 35vw;
+    position: relative;
+    z-index: 10;
+}
+
+.im {
+    position: relative;
+
+}
+
+.im video {
+    position: absolute;
+    top: 69px;
+    right: 0;
+    overflow: hidden;
+}
+
+.line1 {
+    height: 10px;
+    width: 100vw;
+    background-color: gray;
+}
+
+.val {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    align-content: center;
+}
+
+.ll {
+    text-align: center;
+    padding: 125px 44px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ll>h1 {
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.ll>h3 {
+    text-align: center;
+    font-size: 25px ;
+    padding: 0px 36px;
+}
+
+.imm1 img {
+    height: 60vh;
+    width: 43vw;
+    padding: 0px 35px;
+}
+
+.imm1 {
+    padding: 0px 68px;
+}
+.line2{
+    height: 10px;
+    width: 100vw;
+    background-color: gray;
+}
+.fff{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 80px 0px ;
+}
+.imm2{
+    position: relative;
+    padding: 0px 100px;
+
+}
+.imm2 img{
+    width: 40vw;
+    position: relative;
+    z-index: 10;
+}
+.imm2 video{
+    position: absolute;
+    top: 46px;
+    left: 199px;
+    width: 25vw;
+}
+.te{
+    display: flex;
+    flex-direction: column;
+    padding: 34px 79px;
+   
+}
+.te>h1{
+    font-size: 60px ;
+    font-weight: 700;
+}
+.te>h2{
+    font-size: 30px ;
+    font-weight: bold;
+}
+.kkk{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+.imm3 img{
+  padding: 33px 116px ;
+    
+}
+.tt{
+    display: flex;
+    flex-direction: column;
+    padding: 151px 12px ;
+}
+.tt>h1{
+    font-size: 50px ;
+}
+.tt>h2{
+    font-size: 29px ;
+}
+.box{
+    height: 70px ;
+    width: 95% ;
+    border: 1px solid white;
+    align-content: center;
+    font-size: 27px ;
+    font-family: inherit;
+    padding: 0px 41px ;
+    background-color:rgb(45, 45, 45);
+    gap: 10px ;
+    
+}
+.box1{
+    height: 70px ;
+    width: 95% ;
+    border: 1px solid white;
+    align-content: center;
+    font-size: 27px ;
+    font-family: inherit;
+    padding: 0px 41px ;
+    background-color:rgb(45, 45, 45);
+    gap: 10px ;
+}
+.box2{
+    height: 70px ;
+    width: 95% ;
+    border: 1px solid white;
+    align-content: center;
+    font-size: 27px ;
+    font-family: inherit;
+    padding: 0px 41px ;
+    background-color:rgb(45, 45, 45);
+    gap: 10px ;
+}
+.box3{
+    height: 70px ;
+    width: 95% ;
+    border: 1px solid white;
+    align-content: center;
+    font-size: 27px ;
+    font-family: inherit;
+    padding: 0px 41px ;
+    background-color:rgb(45, 45, 45);
+    gap: 10px ;
+}
+.box4{
+    height: 70px ;
+    width: 95% ;
+    border: 1px solid white;
+    align-content: center;
+    font-size: 27px ;
+    font-family: inherit;
+    padding: 0px 41px ;
+    background-color:rgb(45, 45, 45);
+    gap: 10px ;
+}
+.box5{
+    height: 70px ;
+    width: 95% ;
+    border: 1px solid white;
+    align-content: center;
+    font-size: 27px ;
+    font-family: inherit;
+    padding: 0px 41px ;
+    background-color:rgb(45, 45, 45);
+    gap: 10px ;
+}
+
+
+.last {
+    background-color: black;
+    color: white;
+    align-content: center;
+    padding: 43px 95px ;
+}
+.u{
+    font-size: 37px ;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    padding: 15px 0px ;
+
+}
+.last>p{
+    display: flex;
+    justify-content: center;
+    padding: 12px 0px ;
+    font-size: 22px ;
+}
+.serch1{
+    height: 60px;
+    width: 400px;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+
+}
+.bb3{
+    height: 60px;
+    width: 230px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 6px;
+
+}
+.mail2{
+    display: flex;
+    justify-content: center;
+    gap: 10px ;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    gap: 200px ;
+    padding: 30px 0px ;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.541);
+
+}
+ul>li{
+    list-style: none;
+    text-decoration: underline;
+    font-size: 17px ;
+    line-height: 2em
+   
+
+}
+ul{
+   padding: 10px 0px ;
+}
+.o{
+    gap: 12px ;
+}
